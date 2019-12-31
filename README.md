@@ -1,17 +1,23 @@
-<img src="https://github.com/AtsushiSakai/PythonRobotics/raw/master/icon.png?raw=true" align="right" width="300" alt="header pic"/>
 
 # PythonRobotics
-[![Build Status](https://travis-ci.org/AtsushiSakai/PythonRobotics.svg?branch=master)](https://travis-ci.org/AtsushiSakai/PythonRobotics)
-[![Documentation Status](https://readthedocs.org/projects/pythonrobotics/badge/?version=latest)](https://pythonrobotics.readthedocs.io/en/latest/?badge=latest)
-[![Build status](https://ci.appveyor.com/api/projects/status/sb279kxuv1be391g?svg=true)](https://ci.appveyor.com/project/AtsushiSakai/pythonrobotics)
-[![Coverage Status](https://coveralls.io/repos/github/AtsushiSakai/PythonRobotics/badge.svg?branch=master)](https://coveralls.io/github/AtsushiSakai/PythonRobotics?branch=master)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AtsushiSakai/PythonRobotics.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AtsushiSakai/PythonRobotics/context:python)
-[![CodeFactor](https://www.codefactor.io/repository/github/atsushisakai/pythonrobotics/badge/master)](https://www.codefactor.io/repository/github/atsushisakai/pythonrobotics/overview/master)
-[![tokei](https://tokei.rs/b1/github/AtsushiSakai/PythonRobotics)](https://github.com/AtsushiSakai/PythonRobotics)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/AtsushiSakai)
 
-Python codes for robotics algorithm.
+To run examples:
+* Create a python3 venv
+```
+python3 -m venv venv
+```
 
+* Activate the venv
+```
+source ./venv/bin/activate
+```
+
+* Install the requirements with pip
+```
+pip install -r requirements.txt
+```
+
+* Run an example.
 
 # Table of Contents
    * [What is this?](#what-is-this)

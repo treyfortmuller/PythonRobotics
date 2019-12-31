@@ -1,3 +1,5 @@
+venv/
+
 *.csv
 *.gif
 *.g2o
